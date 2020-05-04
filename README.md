@@ -1,5 +1,6 @@
 # Coursera_Capstone
 Repository created for all major/important assignments pertaining to the Applied Data Science Capstone Course for the IBM Data Science Professional Certificate offered on the Coursera online learning platform.
+To View certification visit: https://www.coursera.org/account/accomplishments/specialization/certificate/4FS4JT4R8UKS
 ### Contents
 1. 'Assignment_1.ipynb' - Jupyter Notebook for Assignment-1 Week-1 
 2. 'Assignment - Segmenting and Clustering Neighborhoods in Toronto.ipynb' - Jupyter Notebook for Assignment for Week-3
