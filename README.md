@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# IBM_Data_Science_Capstone
 Repository created for all major/important assignments pertaining to the Applied Data Science Capstone Course for the IBM Data Science Professional Certificate offered on the Coursera online learning platform.
 To view certification visit: https://www.coursera.org/account/accomplishments/specialization/certificate/4FS4JT4R8UKS
 ### Contents
